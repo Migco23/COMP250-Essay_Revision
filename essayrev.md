@@ -1,4 +1,7 @@
-*The Silent Truths of Tourism in Mexico*
+---
+title: The Silent Truths of Tourism in Mexico
+author: Miguel Corral
+---
 
 In Mexico, there was a mass initiative to bring in more tourists to help the country make much-needed money. For a long time, Mexico has been heavily promoted for its beautiful beaches, exotic scenery, and rich culture, which seems like the perfect vacation for families from across the globe to indulge in. While it may seem that this is a massive opportunity for the economy and for the people of the region to make their own money, the actual locals and indigenous people who need the land and money to survive are hardly making anything while the businessmen are capitalizing on the opportunity to invest into tourism and making money for themselves. The pre-existing local and indigenous people of Mexico have lived in the land that has been industrialized and commercialized for monetary gain, not to their exact benefit and they have no power to change it. The surrounding region of select tourist districts promotes the deforestation of mangroves and the destruction of land to make way for hotels, resorts, and various other uses for the land, and the abuse of ancient ruins to become monetized parks. There is also gentrification in the major tourist districts making the area expensive and inaccessible to locals, pushing them out of the area and into poverty and insufficient living. This has caused a skew of the culture and social life of the locals that was once genuine and flourishing.
 
