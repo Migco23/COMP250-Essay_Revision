@@ -1,11 +1,15 @@
 ---
 title: The Silent Truths of Tourism in Mexico
 author: Miguel Corral
+abstract: | 
+In the expansion of tourism in Mexico, the Yucatan Peninsula has secured itself as the go-to destination for vacation and tourism.
+Unfortunately this expansion has lead to multiple problems like deforestation and misplacing the native locals of the area.
+These effects are quitely taking place while the locals are losing their culture. land, food, and capabilites of integrating in the area while the business owners and higher ups are taking adantage of the opportunity.
 ---
 
 In Mexico, there was a mass initiative to bring in more tourists to help the country make much-needed money.
 For a long time, Mexico has been heavily promoted for its beautiful beaches, exotic scenery, and rich culture, which seems like the perfect vacation for families from across the globe to indulge in.
-While it may seem that this is a massive opportunity for the economy and for the people of the region to make their own money, the actual locals and indigenous people who need the land and money to survive are hardly making anything while the businessmen are capitalizing on the opportunity to invest into tourism and making money for themselves.
+While it may seem that this is a massive opportunity for the economy and for the people of the region to make their own money, the actual locals and indigenous people who need the land and money to survive are hardly making anything while the businessmen are capitalizing on the opportunity to invest into tourism and making money for themselves.<!--My claim-->
 The pre-existing local and indigenous people of Mexico have lived in the land that has been industrialized and commercialized for monetary gain, not to their exact benefit and they have no power to change it.
 The surrounding region of select tourist districts promotes the deforestation of mangroves and the destruction of land to make way for hotels, resorts, and various other uses for the land, and the abuse of ancient ruins to become monetized parks.
 There is also gentrification in the major tourist districts making the area expensive and inaccessible to locals, pushing them out of the area and into poverty and insufficient living.
@@ -100,6 +104,8 @@ Taking in what it had to offer as it came naturally, it made it more intimate, r
 It's always so hard to remember that people live in these places as actively working citizens, while you may be visiting for vacation, those people are concerned about their own lives so appreciate their cultures in a fashion that isn't forced and try to directly support them since they aren't in the scope of those who want a superficial paradise.
 This isn't to say that experiencing wonders like the ancient Mayan temples should not be done, but incorporating a broader sense of the place you visit will make your overall experience that is authentic and truthful.
 
+# Conclusion
+
 The purpose of the research was to attempt to uncover the unspoken problems of tourism in Mexico, how the indigenous people have become involved in the cultural, economic, and social changes of mass tourism, how they were treated as a people, and the outcomes of their lives, land, and culture.
 What has been uncovered is that tourism in this case, ends up pushing them away and even exploiting conceived notions about those groups to businesses\' benefit.
 Mass tourism has shifted the way of life of people who weren't harboring being an attraction for others.
@@ -107,7 +113,7 @@ These people have needed to adapt to these drastic changes to make a living and 
 The Mayans and locals of Quintana Roo, Mexico, and the Riviera Maya, face similar challenges to others, but the uniqueness of this case is the surprisingly deliberately designed plan to make this tourist strip as perfect as possible for a massive gain economically and socially.
 flipping the lives of Mayan people, unaware of the hurdles they would have to cross.
 
-Bibliography:
+# Bibliography
 
 - Vargas-del-Río, David, and Ludger Brenner. "Mangroves in Transition. Management of Community Spaces Affected by Conservation and Tourism in Mexico." Ocean & Coastal Management, vol. 232, Feb. 2023, p. 106439, [[https://doi.org/10.1016/j.ocecoaman.2022.106439]{.underline}](https://doi.org/10.1016/j.ocecoaman.2022.106439).
 
