@@ -1,11 +1,13 @@
 ---
-title: The Silent Truths of Tourism in Mexico
+title: 'The Silent Truths of Tourism in Mexico'
 author: Miguel Corral
 abstract: | 
 In the expansion of tourism in Mexico, the Yucatan Peninsula has secured itself as the go-to destination for vacation and tourism.
 Unfortunately this expansion has lead to multiple problems like deforestation and misplacing the native locals of the area.
 These effects are quitely taking place while the locals are losing their culture. land, food, and capabilites of integrating in the area while the business owners and higher ups are taking adantage of the opportunity.
 ---
+
+#Introduction
 
 In Mexico, there was a mass initiative to bring in more tourists to help the country make much-needed money.
 For a long time, Mexico has been heavily promoted for its beautiful beaches, exotic scenery, and rich culture, which seems like the perfect vacation for families from across the globe to indulge in.
