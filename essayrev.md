@@ -144,6 +144,6 @@ flipping the lives of Mayan people, unaware of the hurdles they would have to cr
 
 - Clancy, Michael. MEXICAN TOURISM: Export Growth and Structural Change since 1970. Cambridge University Press, 5 Oct. 2022,file:///C:/Users/mikec/AppData/Local/Temp/491f8c5f-17d0-400c-83a5-fac015f5caa4_cambridge-core_journal-lar-volume-36-issue-1_21Mar2024.zip.aa4/Mexican_Tourism_Export_Growth_and_Structural_Change_since_1970.pdf
 
-- @ambrosieMythsTourismInstitutionalization2015
+- Myths of tourism institutionalization and Cancún [@ambrosieMythsTourismInstitutionalization2015].
 
 ‌
