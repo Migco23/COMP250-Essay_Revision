@@ -1,6 +1,7 @@
 ---
 title: The Silent Truths of Tourism in Mexico
 author: Miguel Corral
+bibliography: cited-items.json
 abstract: | 
   In the expansion of tourism in Mexico, the Yucatan Peninsula has secured itself as the go-to destination for vacation and tourism.
   Unfortunately this expansion has lead to multiple problems like deforestation and misplacing the native locals of the area.
@@ -143,6 +144,6 @@ flipping the lives of Mayan people, unaware of the hurdles they would have to cr
 
 - Clancy, Michael. MEXICAN TOURISM: Export Growth and Structural Change since 1970. Cambridge University Press, 5 Oct. 2022,file:///C:/Users/mikec/AppData/Local/Temp/491f8c5f-17d0-400c-83a5-fac015f5caa4_cambridge-core_journal-lar-volume-36-issue-1_21Mar2024.zip.aa4/Mexican_Tourism_Export_Growth_and_Structural_Change_since_1970.pdf
 
-- Annals of Tourism Research. Ny, Pergamon, 1973.Annals of Tourism Research. Ny, Pergamon, 1973.[[https://www.sciencedirect.com/science/article/pii/S0160738315000900?via%3Dihub]{.underline}](https://www.sciencedirect.com/science/article/pii/S0160738315000900?via%3Dihub)
+- @{ambrosieMythsTourismInstitutionalization2015}
 
 ‌
